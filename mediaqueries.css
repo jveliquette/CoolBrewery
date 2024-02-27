@@ -1,0 +1,13 @@
+@media screen and (max-width: 1200px) {
+    #desktop-nav {
+        display: none;
+    }
+    #hamburger-nav {
+        display: flex;
+        z-index: 1000;
+        max-height: 20rem;
+    }
+    #business-hours {
+        display: none;
+    }
+}
